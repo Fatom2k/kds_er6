@@ -11,5 +11,5 @@ Projet de test de dialogue avec un calculateur de Kawasaki ER6:
 
 Adapter les E/S pour fonctionner sur le LapRacer V0.1 (teensy, l9637d, bluetooth et boutons à poste)
 
-Sources d'informations:
+## Sources d'informations:
  * https://github.com/HerrRiebmann/KDS2Bluetooth/
